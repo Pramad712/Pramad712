@@ -1,5 +1,5 @@
 - 👋 Hi, my name is Pranav Maddineedi.
-- 👀 I’m interested in coding, science, and math. My favorite language is Python, and I know the fundamentals of Java. My strengths are Python and game development with pygame. 
+- 👀 I’m interested in coding, science, and math. My favorite language is Python, and I know the fundamentals of Java and learning C/C++. My strengths are Python and game development with pygame. 
 - 🌱 I’m currently learning about AI and ML, specifically reinforcement learning. I am also learning many algorithms (competitive programming).
 - 💞️ I don't need any collaboration for now.
 - 📫 You can reach me via my email pmaddineedi@gmail.com.
