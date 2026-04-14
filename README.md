@@ -1,5 +1,5 @@
 - 👋 Hi, my name is Pranav Maddineedi.
-- 👀 I am interested in coding, science, and math. My favorite language is Python, but I also know Java and C++. Python is my main strength while I am also very strong in DSA (data structures and algorithms) and mobile development (React Native). I also have knowledge of AI/ML as well as Calculus.
+- 👀 I am interested in coding, science, and math. My favorite language is Python, but I also know Java, C++, and JS. Python is my main strength while I am also very strong in DSA (data structures and algorithms) and mobile development (React Native). I also have knowledge of AI/ML as well as Calculus.
 - 🌱 I am currently learning quantum computing, and Mojo.
 - 💞️ I don't need any collaboration for now.
 - 📫 You can reach me via my email pmaddineedi@gmail.com as well as [my LinkedIn](https://www.linkedin.com/in/pranav-maddineedi-aa7401344/). 
