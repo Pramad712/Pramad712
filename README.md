@@ -1,8 +1,8 @@
 - 👋 Hi, my name is Pranav Maddineedi.
-- 👀 I’m interested in coding, science, and math. My favorite language is Python, and I know the fundamentals of Java and learning C/C++. My strengths are Python and game development with pygame. I focus on backend development more than frontend.
-- 🌱 I’m currently learning about AI and ML, specifically reinforcement learning. I am also learning many algorithms (competitive programming). This year I started learning HTML, CSS, and JS for a website that I contribute to and now react native.
+- 👀 I am interested in coding, science, and math. My favorite language is Python, but I also know Java and C++. Python is my main strength while I am also very strong in DSA (data structures and algorithms) and mobile development (React Native). I also have knowledge of AI/ML as well as Calculus.
+- 🌱 I am currently learning quantum computing, and Mojo.
 - 💞️ I don't need any collaboration for now.
-- 📫 You can reach me via my email pmaddineedi@gmail.com.
+- 📫 You can reach me via my email pmaddineedi@gmail.com as well as [my LinkedIn](https://www.linkedin.com/in/pranav-maddineedi-aa7401344/). 
 - 🏆 I am a USACO Silver Contestant
 
 <!---
